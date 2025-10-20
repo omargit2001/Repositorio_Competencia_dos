@@ -92,5 +92,7 @@ Proyecto integrador EC2 - Ingeniería de Sistemas
 Universidad Católica Boliviana “San Pablo”
 
 ---
+VIDEO
+https://www.icloud.com/attachment/?u=https%3A%2F%2Fcvws.icloud-content.com%2FB%2FAWwp4XINlIkWvp9cQDPOh4Zj1mSTAZYqOi8tI60VuTTvjLdK2PM3601N%2F%24%7Bf%7D%3Fo%3DAkedt3GTtYReloa564j5aIeOHo3TGA3GxA0DxZj7Ibpx%26v%3D1%26x%3D3%26a%3DCAogskDmOLZEdhgRQMDLKoZP8HHDCwWpF7XTj6ons6c4dJ8SehCk2u3_nzMYpOro06kzIgEAKgkC6AMA_ymSdoFSBGPWZJNaBDfrTU1qJ7zzqG1EigpRFgMs2QZbtlQwvCecKguqY8biMtpfnGCty8glYFzzN3InLNG01A_gcmX9X4Kgz8l5dGqeYsveHhSK9zclNHYCgaDmKCURdMLz%26e%3D1763528291%26fl%3D%26r%3DF643FFDA-9C2D-4B66-920A-E9F5C67DE480-1%26k%3D%24%7Buk%7D%26ckc%3Dcom.apple.largeattachment%26ckz%3D3478BCBB-F99E-4888-84BF-2118022C241B%26p%3D147%26s%3DfQDktQtcKCNHMPtTCzZa1lPeH0Q&uk=62QXke_4NQBYvS0e-RMwoA&f=7844F84A-5E51-421F-AB46-9E4F573D2A86.mov&sz=262780694
 
 © 2025 - Todos los derechos reservados.
