@@ -1,0 +1,10 @@
+from dataclasses import dataclass
+
+@dataclass
+class Producto:
+    codigo: str
+    nombre: str
+    precio: float
+    stock: int
+    stock_minimo: int
+    vendidos_hoy: int = 0
